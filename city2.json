@@ -1,0 +1,164 @@
+[
+  {
+    "id": 5128581,
+    "name": "New York",
+    "country": "US",
+    "coord": {
+      "lon": -74.005966,
+      "lat": 40.714272
+    }
+  },
+  {
+    "id": 4179320,
+    "name": "Albany",
+    "country": "US",
+    "coord": {
+      "lon": -84.155739,
+      "lat": 31.57851
+    }
+  },
+  {
+    "id": 4351021,
+    "name": "Charles County",
+    "country": "US",
+    "coord": {
+      "lon": -76.983032,
+      "lat": 38.483459
+    }
+  },
+  {
+    "id": 4532136,
+    "name": "Canadian County",
+    "country": "US",
+    "coord": {
+      "lon": -97.983658,
+      "lat": 35.533379
+    }
+  },
+  {
+    "id": 4703486,
+    "name": "Kleberg County",
+    "country": "US",
+    "coord": {
+      "lon": -97.716942,
+      "lat": 27.433649
+    }
+  },
+  {
+    "id": 4885392,
+    "name": "Boone County",
+    "country": "US",
+    "coord": {
+      "lon": -88.816772,
+      "lat": 42.333351
+    }
+  },
+  {
+    "id": 5046749,
+    "name": "Scott County",
+    "country": "US",
+    "coord": {
+      "lon": -93.500793,
+      "lat": 44.633301
+    }
+  },
+  {
+    "id": 5141784,
+    "name": "Ulster County",
+    "country": "US",
+    "coord": {
+      "lon": -74.250153,
+      "lat": 41.88343
+    }
+  },
+  {
+    "id": 5128594,
+    "name": "New York County",
+    "country": "US",
+    "coord": {
+      "lon": -73.966248,
+      "lat": 40.783428
+    }
+  },
+  {
+    "id": 5217179,
+    "name": "Verona",
+    "country": "US",
+    "coord": {
+      "lon": -79.843102,
+      "lat": 40.506458
+    }
+  },
+  {
+    "id": 5251040,
+    "name": "Dunn County",
+    "country": "US",
+    "coord": {
+      "lon": -91.883507,
+      "lat": 44.949959
+    }
+  },
+  {
+    "id": 5430806,
+    "name": "Mesa County",
+    "country": "US",
+    "coord": {
+      "lon": -108.467308,
+      "lat": 39.033321
+    }
+  },
+  {
+    "id": 5417258,
+    "name": "Clifton",
+    "country": "US",
+    "coord": {
+      "lon": -108.448982,
+      "lat": 39.09193
+    }
+  },
+  {
+    "id": 5709906,
+    "name": "Washoe County",
+    "country": "US",
+    "coord": {
+      "lon": -119.626312,
+      "lat": 40.750179
+    }
+  },
+  {
+    "id": 5528613,
+    "name": "Potter County",
+    "country": "US",
+    "coord": {
+      "lon": -101.900459,
+      "lat": 35.416721
+    }
+  },
+  {
+    "id": 5523520,
+    "name": "Howard County",
+    "country": "US",
+    "coord": {
+      "lon": -101.450401,
+      "lat": 32.300121
+    }
+  },
+  {
+    "id": 4106979,
+    "name": "Craighead County",
+    "country": "US",
+    "coord": {
+      "lon": -90.650108,
+      "lat": 35.816738
+    }
+  },
+  {
+    "id": 5128581,
+    "name": "Boston",
+    "country": "US",
+    "coord": {
+      "lon": -71.058884,
+      "lat": 42.360081
+    }
+  }	
+]
